@@ -9,7 +9,7 @@ licenses = "GPL-3.0-or-later"
 website = "https://github.com/bracke/Encryption-utilities"
 tags = ["threefish256", "threefish512", "threefish1024", "xor"]
 
-executables = ["encryption_utilities"]
+executables = ["tf_crypt","tf_test","tf_test_512","tf_test_1024","xcrypt"]
 
 [build-switches]
 "*".style_checks = "No"
