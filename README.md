@@ -1,4 +1,5 @@
 # Encryption utilities
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/encryption_utilities.json)](https://alire.ada.dev/crates/encryption_utilities.html)
 
 The PragmAda Reusable Components (https://github.com/jrcarter/PragmARC) contain implementations of the Threefish-256 (implemented directly from the specification in Section 3.3 of the Skein paper V1.3 [https://www.schneier.com/skein.pdf]), Threefish-512, Threefish-1024, and XOR encryption algorithms. Threefish-512 and Threefish-1024 are provided by Daniel Norte de Moraes (https://github.com/danieagle).
 
